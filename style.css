@@ -1,0 +1,39 @@
+.lexend{
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+ 
+  }
+  body {
+     border:1px solid red ;
+     padding-inline: 50px;
+
+  }
+
+  
+
+
+
+
+
+
+
+
+
+header{
+      
+    display :flex ;
+    justify-content: space-between;
+    padding:10px 30px ;
+    align-items:center;
+    border:1px solid red ;
+
+}
+.header-center,.header-left{
+     display : flex ;
+     border: 1px solid red ;
+     gap:10px ;
+     align-items:center;
+}
+main{
+    boder:1px solid blue ;
+}
